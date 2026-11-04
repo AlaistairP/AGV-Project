@@ -1,1 +1,5 @@
-# Project
+- [x] Preliminary Design
+- [ ] Components
+- [ ] Dimensioning 
+- [ ] Performance
+- [ ] Workload split

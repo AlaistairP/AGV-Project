@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"5b0a2e2d313af213","x":-1160,"y":-920,"width":400,"height":400,"type":"file","file":"ME1 Modules/EEG1001/SOLIDWORKS PARTS/AGV Concept/Rev 1.4/Assembly.pdf"},
+		{"id":"0fc1792da2d3efa5","x":-1120,"y":-360,"width":400,"height":300,"type":"file","file":"ME1 Modules/EEG1001/Project/README.md"},
+		{"id":"c9f05303f31f2f26","x":-1045,"y":-476,"width":250,"height":60,"type":"text","text":"PRELIM DESIGN SUBMITION  - 04/11/2026"}
+	],
+	"edges":[
+		{"id":"e9b83eb1367cff2d","fromNode":"0fc1792da2d3efa5","fromSide":"top","toNode":"5b0a2e2d313af213","toSide":"bottom"}
+	]
+}
