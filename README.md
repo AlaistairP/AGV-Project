@@ -2,7 +2,7 @@
 
 __UPLOAD LATEST PPTX FROM LOCAL VAULT - NOT GDRIVE OR REPO__ 
 
-> Team name: **TBD** | Team number: **A4.B** | Presentation date: **DD/MM/YY (TBD)**
+> Team name: **MechLaren** | Team number: **A4.B** | Presentation date: **DD/MM/YY (TBD)**
 
 Preliminary design of a model Automated Guided Vehicle (AGV) for EEG1001. This repository holds our team's design work, calculations, sketches and presentation materials.
 
